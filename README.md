@@ -61,3 +61,7 @@ Esta é uma aplicação simples em Python, desenvolvida para enviar e-mails util
    ```bash
    python3 teste_ses.py
    ```
+   ou
+   ```bash
+   python3 teste_with_link.py
+   ```
