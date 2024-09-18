@@ -3,11 +3,11 @@ from botocore.exceptions import ClientError
 
 def send_email():
     # Cria o cliente do SES
-    ses_client = boto3.client('ses', region_name='sa-east-1')  # Substitua pela sua região
+    ses_client = boto3.client('ses', region_name='us-east-1')  # Substitua pela sua região
 
     # Configurações do e-mail
-    sender_email = "bruna.magalhaes@nouvenn.com"   # E-mail verificado no SES
-    recipient_email = "dev.bruna.magalhaes@gmail.com"  # E-mail do destinatário
+    sender_email = "seuemail@exemplo.com"   # E-mail verificado no SES
+    recipient_email = "destinatario@exemplo.com"  # E-mail do destinatário
     subject = "Teste de envio de email pelo Amazon SES"
     body_text = "Este é um e-mail de teste enviado usando Amazon SES com o Python boto3."
 
