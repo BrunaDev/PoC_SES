@@ -69,6 +69,6 @@ Esta é uma aplicação simples em Python, desenvolvida para enviar e-mails util
 ### E-mails Recebidos
 
 <div style="display: flex; justify-content: space-around; margin: 5px;">
-  <img src="https://github.com/user-attachments/assets/ced12ae5-8c0e-4a33-a5ce-2dfea6dd6d69" alt="WhatsApp Image 2024-09-18 at 15 57 02" style="width: 25%; margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/1c4a70a5-fe10-418b-9f7d-bad897e69199" alt="WhatsApp Image 2024-09-18 at 15 57 03" style="width: 25%; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/ced12ae5-8c0e-4a33-a5ce-2dfea6dd6d69" alt="WhatsApp Image 2024-09-18 at 15 57 02" style="width: 25%; margin: 8px;"/>
+  <img src="https://github.com/user-attachments/assets/1c4a70a5-fe10-418b-9f7d-bad897e69199" alt="WhatsApp Image 2024-09-18 at 15 57 03" style="width: 25%; margin: 8px;"/>
 </div>
